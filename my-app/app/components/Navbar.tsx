@@ -62,7 +62,7 @@ const Navbar = () => {
               <Link href="/">Home</Link>
             </li>
             <li className="py-2 lg:py-0">
-              <Link href="/products">Products</Link>
+              <Link href="/Products">Products</Link>
             </li>
             <li className="py-2 lg:py-0">
               <Link href="/about">Shop</Link>
